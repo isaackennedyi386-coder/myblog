@@ -98,5 +98,5 @@ You don't need to be a programmer to build a site this way! The software tools a
 their computer's command line interface. And if you're only a casual computer user like I am, then you'll also need a certain patience and a willingness to learn by trial and error until it all starts to click.
 It took me a solid couple of evenings just to get a functioning site online. 
 
-If you're not into that sort of tinkering and just want to start posting long-form stuff with minimum hassle, [Substack](https://substack.com/) is the best thing out there. 
+If you're not into that sort of tinkering and just want to start posting long-form stuff with minimal hassle, [Substack](https://substack.com/) is the best thing out there. 
 
