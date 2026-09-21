@@ -30,7 +30,7 @@ pose to you, dear reader: A blog is just social media, when you think about it. 
 the world's leading authority, or a radical new theory the world must know about, or anything like that. All you need is something you want to say, and then
 to sit down and type it out. It's conceptually not too different from the 'gram or Facebook or whatever.
 
-Well, it it a slower medium. Before you could read this post, I revised it, proofread it, and typed a few commands into Windows PowerShell to publish it to the Web.
+Well, it is a slower medium. Before you could read this post, I revised it, proofread it, and typed a few commands into Windows PowerShell to publish it to the Web.
 More on that later. The point is, this medium demands just a little more thought and effort than just thumbing out a Xeet from your workplace's restroom stalls and smashing Post. 
 And if you're here, odds are I don't need to sell you on the pleasures of reading or even writing longer-form content. Or if you don't want to start your own blog, 
 that's fine too. Maybe it would help if I told you a little about
