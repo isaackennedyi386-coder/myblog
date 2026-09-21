@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Tags on Isaac Kennedy</title>
+		<link>https://isaacjkennedy.com/tags/</link>
+		<description>Recent content in Tags on Isaac Kennedy</description>
+		<generator>Hugo -- 0.165.0</generator>
+		<language>en</language>
+		<atom:link href="https://isaacjkennedy.com/tags/index.xml" rel="self" type="application/rss+xml" />
+		
+    	<image>
+			<title>Isaac Kennedy</title>
+    	  	<url>https://isaacjkennedy.com/images/JC.jpg</url>
+    	  	<link>https://isaacjkennedy.com/images/JC.jpg</link>
+    	</image>
+		
+	</channel>
+</rss>

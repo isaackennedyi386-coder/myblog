@@ -1,16 +1,12 @@
 ---
 title: "setup"
 slug: "setup"
-date: 2026-08-23T00:11:15-04:00
+date:
 draft: true
 comments: true
 featuredImg: ""
 images:
 description: ""
-tags:
-  - untagged
-categories:
-  - uncategorized
 author: ""
 authorLink: ""
 scrolltotop: true

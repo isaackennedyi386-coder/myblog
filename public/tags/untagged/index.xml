@@ -9,6 +9,11 @@
 		<lastBuildDate>Sun, 23 Aug 2026 00:11:15 -0400</lastBuildDate>
 		<atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
 		
+    	<image>
+			<title>Isaac Kennedy</title>
+    	  	<url>http://localhost:1313/images/JC.jpg</url>
+    	  	<link>http://localhost:1313/images/JC.jpg</link>
+    	</image>
 		
 		<item>
 			<title>setup</title>

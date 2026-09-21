@@ -6,6 +6,7 @@
 		<description>Recent content in Posts on Isaac Kennedy</description>
 		<generator>Hugo -- 0.165.0</generator>
 		<language>en</language>
+		<lastBuildDate>Sun, 20 Sep 2026 00:11:15 -0400</lastBuildDate>
 		<atom:link href="https://isaacjkennedy.com/posts/index.xml" rel="self" type="application/rss+xml" />
 		
     	<image>
@@ -13,6 +14,96 @@
     	  	<url>https://isaacjkennedy.com/images/JC.jpg</url>
     	  	<link>https://isaacjkennedy.com/images/JC.jpg</link>
     	</image>
+		
+		<item>
+			<title>&#39;Sup</title>
+			<link>https://isaacjkennedy.com/posts/sup/</link>
+			<pubDate>Sun, 20 Sep 2026 00:11:15 -0400</pubDate><author>Isaac Kennedy</author><guid>https://isaacjkennedy.com/posts/sup/</guid>
+			<description>&lt;p&gt;Shout out to my brother &lt;a href=&#34;https://joachimkennedy.com/&#34; target=&#34;_blank&#34; &gt;Joa&lt;/a&gt; for inspiring me to &lt;a href=&#34;https://joachimkennedy.com/p/blog-for-me/&#34; target=&#34;_blank&#34; &gt;start a blog&lt;/a&gt;.
+I&amp;rsquo;ve read and enjoyed various blogs over the years, but I hadn&amp;rsquo;t previously thought of starting one myself. I think that&amp;rsquo;s because most
+of the blogs I&amp;rsquo;ve read have been sort of academic or polemical or trying to sell something or otherwise created for some other ulterior purpose.
+That&amp;rsquo;s not what this site&amp;rsquo;s about, at least not right now.&lt;/p&gt;</description><content type="text/html" mode="escaped"><![CDATA[<p>Shout out to my brother <a href="https://joachimkennedy.com/" target="_blank" >Joa</a> for inspiring me to <a href="https://joachimkennedy.com/p/blog-for-me/" target="_blank" >start a blog</a>.
+I&rsquo;ve read and enjoyed various blogs over the years, but I hadn&rsquo;t previously thought of starting one myself. I think that&rsquo;s because most
+of the blogs I&rsquo;ve read have been sort of academic or polemical or trying to sell something or otherwise created for some other ulterior purpose.
+That&rsquo;s not what this site&rsquo;s about, at least not right now.</p>
+<p>The specific idea from my brother&rsquo;s blog that kind of stuck in my head and made the whole thing sound like fun is one that I now
+pose to you, dear reader: A blog is just social media, when you think about it. Which means you don&rsquo;t need a domain of expertise wherein you&rsquo;re
+the world&rsquo;s leading authority, or a radical new theory the world must know about, or anything like that. All you need is something you want to say, and then
+to sit down and type it out. It&rsquo;s conceptually not too different from the &lsquo;gram or Facebook or whatever.</p>
+<p>Well, it it a slower medium. Before you could read this post, I revised it, proofread it, and typed a few commands into Windows PowerShell to publish it to the Web.
+More on that later. The point is, this medium demands just a little more thought and effort than just thumbing out a Xeet from your workplace&rsquo;s restroom stalls and smashing Post.
+And if you&rsquo;re here, odds are I don&rsquo;t need to sell you on the pleasures of reading or even writing longer-form content. Or if you don&rsquo;t want to start your own blog,
+that&rsquo;s fine too. Maybe it would help if I told you a little about</p>
+<h2 id="what-im-actually-doing-here">What I&rsquo;m Actually Doing Here<a href="#what-im-actually-doing-here" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>So I told you I liked the idea of writing a blog. Which to enough to sit down at the keyboard and get started, but a sentiment is not a reason or a purpose.
+It&rsquo;s all good though. I think we all to some extent decide we like something (or don&rsquo;t) and create our reasons later.</p>
+<p>Years back, I had a conversation with one of my other brothers (<a href="https://dominicmkennedy.com/" target="_blank" >Dominic</a>) which turned out to be kind of revelatory to me. We were talking about phones.
+He told me that he&rsquo;d recently bought a new iPhone and that the first thing he did after setting it up was, he looked up reviews of that exact phone in order to convince himself
+<em>ex post facto</em> that his decision to buy the phone was savvy and rational.</p>
+<p>In the hour or so afterward, I realized that I do that sort of after-the-fact rationalizing all the time.
+And not just for my purchases of consumer goods, but also for my opinions, experiences, and so on. This is fine! In fact, I&rsquo;m doing it right now and you, dear reader, are along for the
+ride. The way I see it, we both benefit: You get a general feel for what you might see here in the future, and I get to figure out why this is fun, which is that I&rsquo;m:</p>
+<h3 id="writing-as-a-creative-outlet">Writing as a Creative Outlet<a href="#writing-as-a-creative-outlet" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Immediately after college, I felt like I&rsquo;d kind of overdosed on reading and writing (I majored in English).
+Now my job title has the word &ldquo;writer&rdquo; in it, but I spend remarkably little time actually writing at work. I probably spend more time on graphics than on text,
+plus I usually have to collect, cross-reference, and collate a whole lot of raw information before typing anything into a document.</p>
+<p>Looking back, some of that collegiate reading and writing was really cool and rewarding, especially the parts when my classmates and I read and reviewed each other&rsquo;s essays/short stories/etc.
+It&rsquo;s something worth doing more of, starting here. As for the genres of post that you&rsquo;re likely to see, your guess is as good as mine the moment. Reviews, short fiction, poetry, updates on life and much more
+are all possible. In the future, I&rsquo;ll probably settle on a narrower range of topics.</p>
+<h3 id="establishing-a-presence-online">Establishing a Presence Online<a href="#establishing-a-presence-online" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>I don&rsquo;t use social media much. Not that I have a principled objection to it or anything. The stated aims of social media companies (bringing people together, providing an avenue for sharing experiences etc.)
+are really cool! Their actual aims (selling ad impressions and user data) compromise the experience in ways I dislike.</p>
+<p>With a personal website, I can have the benefits of social media without having to look at a lot of dreck. If you&rsquo;re someone who just met me and you Googled my name out of curiosity, there is now a useful measure of
+information about me that you can access at your convenience. Soon I&rsquo;ll add contact info to this site, but for now you are welcome to reach out through whatever contact info you currently have.</p>
+<h3 id="motivating-myself-to-have-experiences-worth-writing-about">Motivating Myself to Have Experiences Worth Writing About<a href="#motivating-myself-to-have-experiences-worth-writing-about" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>Now that I&rsquo;ve built a place to post stuff, I also have another reason to see and do things worth posting about. To do it for the content, as they say.
+Remember that bit about discerning the value of a decision after the fact? Conversely, now that I&rsquo;m writing about the stuff I do, I have a prefabricated measure for the value of an experience,
+namely whether it would make for a good post. Therefore I have a whole new reason to do interesting things. Not that I really need another reason, but maybe it&rsquo;ll lead somewhere new. We&rsquo;ll see.</p>
+<h3 id="creating-a-sort-of-mental-prosthesis">Creating a Sort of Mental Prosthesis<a href="#creating-a-sort-of-mental-prosthesis" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h3>
+<p>My range of attention is tiny. Estimates vary, but the general consensus is that the number of discrete &ldquo;chunks&rdquo; of information that a person&rsquo;s working memory can hold is somewhere in the
+mid single digits, and that&rsquo;s if the person is concentrating. I can only think about one thing at a time, most of the time.</p>
+<p>Long-term human memory has drawbacks too. It&rsquo;s generative rather than reproductive; every time I recall an event, my brain pieces it back together using current emotions, context, and so on.
+It&rsquo;s sort of like a copying machine printing a recursive series of copies. You lose fidelity with each iteration.
+And that&rsquo;s assuming I don&rsquo;t just straight-up forget stuff.</p>
+<p>Text doesn&rsquo;t have these problems. Once I write something, it doesn&rsquo;t change unless I go back and change it.
+So by blogging, I have a reliable record of anything interesting that I was doing or thinking about at the time of writing. There is no immediately obvious practical benefit to this, but it seems like
+the sort of thing that could have major non-concrete benefits somewhere down the line.</p>
+<p>For this to work, I&rsquo;ll try to post something every other week, without much regard for word count. One week might be really busy, but it&rsquo;s unlikely that I&rsquo;ll have two consecutive weeks in which
+I&rsquo;m too busy to post something worthwhile.</p>
+<h2 id="a-note-on-platforms-and-the-technical-aspects-of-starting-a-blog">A Note on Platforms and the Technical Aspects of Starting a Blog<a href="#a-note-on-platforms-and-the-technical-aspects-of-starting-a-blog" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<p>To preface this part, I&rsquo;m not a programmer. I created this site using <a href="https://gohugo.io/" target="_blank" >Hugo</a>, which is a <a href="https://en.wikipedia.org/wiki/Static_site_generator" target="_blank" >static site generator</a>.
+I chose this approach because a: I wanted to learn a little about how to build a website without needing to code everything from scratch, and b: I wanted to have the option to change the structure
+or look of the site in the future.</p>
+<p>You don&rsquo;t need to be a programmer to build a site this way! The software tools are all free and have excellent user documentation. However, that documentation assumes that the user already knows how to use
+their computer&rsquo;s command line interface. And if you&rsquo;re only a casual computer user like I am, then you&rsquo;ll also need a certain patience and a willingness to learn by trial and error until it all starts to click.
+It took me a solid couple of evenings just to get a functioning site online.</p>
+<p>If you&rsquo;re not into that sort of tinkering and just want to start posting long-form stuff with minimum hassle, <a href="https://substack.com/" target="_blank" >Substack</a> is the best thing out there.</p>
+]]></content>
+		</item>
 		
 	</channel>
 </rss>
