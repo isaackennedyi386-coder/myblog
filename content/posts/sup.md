@@ -37,7 +37,7 @@ that's fine too. Maybe it would help if I told you a little about
 
 ## What I'm Actually Doing Here
 
-So I told you I liked the idea of writing a blog. Which to enough to sit down at the keyboard and get started, but a sentiment is not a reason or a purpose. 
+So I told you I liked the idea of writing a blog. Which is enough to sit down at the keyboard and get started, but a sentiment is not a reason or a purpose. 
 It's all good though. I think we all to some extent decide we like something (or don't) and create our reasons later.
 
 Years back, I had a conversation with one of my other brothers ([Dominic](https://dominicmkennedy.com/)) which turned out to be kind of revelatory to me. We were talking about phones.
